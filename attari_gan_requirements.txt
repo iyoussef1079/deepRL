@@ -6,4 +6,5 @@ torch
 opencv-python
 torchvision
 ale-py
+tensorboardX
 # Require python 3.12 with cuda (install link here https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&Distribution=Ubuntu&target_version=24.04&target_type=deb_network)
