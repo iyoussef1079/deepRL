@@ -1,0 +1,3 @@
+# we can use the same env
+# we can use req file as the same as attari just adding
+gymnasium[classic-control]
